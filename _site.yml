@@ -1,10 +1,8 @@
-name: "alanarnholt.github.io"
+name: "jungd.github.io"
 output_dir: "."
 navbar:
-  title: "Alan T. Arnholt"
+  title: "DongWon Jung"
   left:
-    - text: "Software"
-      href: software.html
     - text: "For Students"
       href: for-students.html
     - text: "Scholarship"
@@ -20,7 +18,7 @@ navbar:
       href: about.html
   right:
     - icon: fa-github fa-lg
-      href: https://github.com/alanarnholt/alanarnholt.github.io/   
+      href: https://github.com/jungd/jungd.github.io/   
 
 output:
   html_document:
