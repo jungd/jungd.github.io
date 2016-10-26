@@ -10,6 +10,9 @@ If you are taking a class from me, please make an appointment to meet with me by
 
 This website was last rendered on `r format(Sys.time(), "%A, %B %d, %Y - %X.")`
 
+<script src="http://counter.heroku.com/javascripts/count.js" type="text/javascript"></script>	
+<div>Hit Count: <span id = "count"></span><div>
+
 
 
 * * *
