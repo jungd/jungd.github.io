@@ -3,8 +3,11 @@ title: "Scholarship"
 output: html_document
 ---
 
-## Books 
+## Appalachian State University    
 
+[Scholarships](https://scholarships.appstate.edu/)    
+
+## Books 
 
 [_Probability and Statistics with R, Second Edition_](http://alanarnholt.github.io/PASWR2E-Book/)
 
