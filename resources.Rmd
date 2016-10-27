@@ -4,7 +4,7 @@ output: html_document
 ---
 
 ### Department mathematics Science    
-*[Mathematical Sciences](http://mathsci.appstate.edu/)          
+* [Mathematical Sciences](http://mathsci.appstate.edu/)          
 
 ### RStudio Server
 * [ASU RStudio Server](https://mathr.math.appstate.edu/)
