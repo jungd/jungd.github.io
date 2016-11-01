@@ -4,7 +4,8 @@ output: html_document
 ---
 
 - [ASU Recreation Center](http://urec.appstate.edu/student-recreation-center)
-- [ASU Group Fitness schedule](http://fitness.appstate.edu/pagesmith/19)
+- [ASU Group Fitness schedule](http://fitness.appstate.edu/pagesmith/19)     
+- [School Movies](http://csil.orgsync.com/org/apps/Films/)    
 - [Ray's Weather Center](http://booneweather.com/)
 - [Follow Me](https://www.facebook.com/Indy.Jung)
 - [Masters Swimming](http://www.usms.org/)
