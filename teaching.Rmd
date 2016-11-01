@@ -8,7 +8,7 @@ output: html_document
 
 ## Classes
 * [AsULearn](http://asulearn.appstate.edu/)     
-* [WileyPLUS](https://www.wileyplus.com/WileyCDA/Section/id-WILEYPLUS_LOGIN.html)   
+* [WileyPLUS](https://www.wileyplus.com/WileyCDA/Section/id-WILEYPLUS_HOME_PAGE.html)   
 * [WileyPlusTech.Issue](https://hub.wiley.com/community/support/wileyplus)    
 
 
