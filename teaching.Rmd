@@ -10,6 +10,6 @@ output: html_document
 * [AsULearn](http://asulearn.appstate.edu/)     
 * [WileyPLUS](https://www.wileyplus.com/WileyCDA/Section/id-WILEYPLUS_HOME_PAGE.html)   
 * [WileyPlus Technical Support](https://hub.wiley.com/community/support/wileyplus)    
-
+* [My Math Lab](http://www.pearsonmylabandmastering.com/northamerica/mymathlab/)
 
 * * *
