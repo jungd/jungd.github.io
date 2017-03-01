@@ -3,7 +3,7 @@ title: "Teaching"
 output: html_document
 ---
 
-<i class="glyphicon glyphicon-star"></i> This page will serve as a directory for courses from Fall 2016 forward. <i class="glyphicon glyphicon-thumbs-up"></i>
+<i class="glyphicon glyphicon-star"></i> This page will serve as a directory for courses from Spring 2017 forward. <i class="glyphicon glyphicon-thumbs-up"></i>
 
 
 ## Classes
@@ -11,6 +11,6 @@ output: html_document
 * [WileyPLUS](https://www.wileyplus.com/WileyCDA/Section/id-WILEYPLUS_HOME_PAGE.html)   
 * [WileyPlus Technical Support](https://hub.wiley.com/community/support/wileyplus)    
 * [My Math Lab](http://www.pearsonmylabandmastering.com/northamerica/mymathlab/)   
-* [MyMathLab Student Supoort](https://www.pearsonmylabandmastering.com/northamerica/mymathlab/students/support/index.html)
+* [MyMathLab Student Supoort](https://www.pearsonmylabandmastering.com/northamerica/mymathlab/students/support/index.html)  
 
 * * *
